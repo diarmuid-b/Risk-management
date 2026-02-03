@@ -1,9 +1,11 @@
 **Risk Management Experience & Cybersecurity Alignment**
+
 **Profile Summary**
 I am an experienced risk‑management practitioner with a background in developing and implementing comprehensive safety assessments across Design Technology, Engineering, and workshop environments. My work involves analysing complex systems, identifying hazards, designing layered control measures, and ensuring compliance with statutory and organisational standards.
 These capabilities translate directly into cybersecurity and GRC roles, where structured risk assessment, threat modelling, governance, and incident prevention are essential.
 
 **Core Competencies**
+
 **Risk Identification & Analysis**
 • 	Conducted full‑spectrum risk assessments across machinery, chemicals, electrical systems, and human‑factor hazards.    
 • 	Evaluated likelihood, severity, and residual risk using structured methodologies.
